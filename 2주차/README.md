@@ -12,11 +12,13 @@
 
 ## 📚 실습 구성
 
-| # | 파일 | 주제 | 핵심 키워드 | 설명 |
-|---|------|------|-------------|------|
-| 1 | [`lab_01_tensor_basics.ipynb`](lab_01_tensor_basics.ipynb) | Tensor와 데이터 핸들링 | `shape`, `dtype`, `device` | [📖 설명](lab_01_tensor_basics.md) |
-| 2 | [`lab_02_autograd_mechanism.ipynb`](lab_02_autograd_mechanism.ipynb) | 자동 미분(Autograd) | `requires_grad`, `backward()`, `grad_fn` | [📖 설명](lab_02_autograd_mechanism.md) |
-| 3 | [`lab_03_mlp_training_loop.ipynb`](lab_03_mlp_training_loop.ipynb) | MLP 훈련 파이프라인 | `nn.Module`, `Loss`, `Optimizer` | [📖 설명](lab_03_mlp_training_loop.md) |
+| # | 파일 | 주제 | 핵심 키워드 | 설명 | Colab |
+|---|------|------|-------------|------|-------|
+| 1 | [`lab_01_tensor_basics.ipynb`](lab_01_tensor_basics.ipynb) | Tensor와 데이터 핸들링 | `shape`, `dtype`, `device` | [📖 설명](lab_01_tensor_basics.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Team-AnI/A-AND-I-4TH-AI-CODE-LAB/blob/main/2주차/lab_01_tensor_basics.ipynb) |
+| 2 | [`lab_02_autograd_mechanism.ipynb`](lab_02_autograd_mechanism.ipynb) | 자동 미분(Autograd) | `requires_grad`, `backward()`, `grad_fn` | [📖 설명](lab_02_autograd_mechanism.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Team-AnI/A-AND-I-4TH-AI-CODE-LAB/blob/main/2주차/lab_02_autograd_mechanism.ipynb) |
+| 3 | [`lab_03_mlp_training_loop.ipynb`](lab_03_mlp_training_loop.ipynb) | MLP 훈련 파이프라인 | `nn.Module`, `Loss`, `Optimizer` | [📖 설명](lab_03_mlp_training_loop.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Team-AnI/A-AND-I-4TH-AI-CODE-LAB/blob/main/2주차/lab_03_mlp_training_loop.ipynb) |
+
+> **Colab으로 실행하는 법:** 표의 **Open in Colab** 배지를 누르면 해당 노트북이 **여러분 Google 계정의 Colab**에서 열립니다. 실행·사용량은 각자 본인 계정 기준이며, 수정본을 남기려면 `파일 → Drive에 사본 저장` 하세요. GPU가 필요하면 `런타임 → 런타임 유형 변경 → GPU`.
 
 ## 🧭 권장 진행 순서
 
