@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env / editor
+.venv/
+venv/
+.env
+.vscode/
+.claude/
+.gemini/
+.idea/
