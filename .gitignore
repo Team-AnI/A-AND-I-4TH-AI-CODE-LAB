@@ -17,3 +17,10 @@ venv/
 .claude/
 .gemini/
 .idea/
+
+# 6주차 Airflow 실습 산출물 (docker compose 실행 시 생성)
+6주차/docker-compose.yaml
+6주차/logs/
+6주차/plugins/
+6주차/config/
+6주차/data/

@@ -11,7 +11,7 @@
 | 3 | 실습 | MNIST — EDA, 전처리, 특징 공학 | Dataset, DataLoader, Feature Engineering |
 | 4 | 실습 | MovieLens — Collaborative Filtering | Embedding, Cosine Similarity, User/Item Matrix, MF |
 | 5 | 실습 | MovieLens — SASRec | Attention, Transformer, Sequential Recommendation |
-| 6 | 실습 | Airflow | DAG, Scheduling, Operators, Pipeline, Orchestration |
+| 6 | 실습 | Airflow — SASRec 학습 파이프라인 | DAG, TaskFlow API, XCom, Orchestration, WandB |
 | 7 | 심화 | 논문 조사 및 발표 | Paper Research, Presentation |
 | 8 | 프로젝트 | 기초 프로젝트 | End-to-End 구현 |
 | 9 | 팀 프로젝트 | 팀 프로젝트 | 협업, 배포 |
